@@ -1,0 +1,10 @@
+# Konfigurasi database lokal
+/config/database.php
+
+# File environment
+.env
+.env.*
+
+# File sementara
+*.log
+.DS_Store
