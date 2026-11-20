@@ -1,0 +1,11 @@
+config/database.php
+.env
+
+uploads/fasilitas/*
+uploads/pengembalian/*
+
+!uploads/fasilitas/.gitkeep
+!uploads/pengembalian/.gitkeep
+
+.DS_Store
+Thumbs.db
